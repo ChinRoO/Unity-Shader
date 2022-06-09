@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Forge_01work
+  m_Shader: {fileID: 4800000, guid: bee7f2d26c6277f42a789c8592ba33be, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _node_1152:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_2117:
+        m_Texture: {fileID: 2800000, guid: 8199bda8fee262d49be5512f66dd3a0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_8578:
+        m_Texture: {fileID: 2800000, guid: 8199bda8fee262d49be5512f66dd3a0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_8766:
+        m_Texture: {fileID: 2800000, guid: 8199bda8fee262d49be5512f66dd3a0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _node_1619: 0.02
+    - _node_2123: 0.5
+    - _node_5223: 0.3
+    m_Colors:
+    - _node_4706: {r: 0.2617525, g: 0.1292987, b: 0.3018868, a: 1}
+  m_BuildTextureStacks: []
